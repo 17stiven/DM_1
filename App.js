@@ -1,11 +1,9 @@
 
 
-import React, {useState} from 'react';
+import React from 'react';
 import {
   Pressable,
-  SafeAreaView,
-  ScrollView,
-  StatusBar,
+ 
   StyleSheet,
   Text,
   useColorScheme,
